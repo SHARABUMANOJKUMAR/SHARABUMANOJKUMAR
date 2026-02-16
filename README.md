@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sharabu Manoj Kumar</h1>
 
 <p align="center">
-  🎓 B.Tech Student (2027) | 💡 Microsoft Learn Student Ambassador (Under Review) <br>
-  👨‍💻 AI & Data Science Enthusiast | 💙 Passionate about Tech for Good
+  🎓 B.Tech Student (2027) | 👨‍💻 AI & Data Science Enthusiast | 💙 Passionate about Tech for Good
 </p>
 
 ---
